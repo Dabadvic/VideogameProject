@@ -7,6 +7,7 @@ This project was developed during the course of Videogame development as a proof
 * Documentation: Contains the PDF with more information regarding the project and basic introductory presentation, both of them in Spanish language.
 * Executable: Contains both the executable of the final version of the project and the folder with the libraries necessary for runing it.
 * Source: With all the source code produced during the development, following the Unity project folder format.
+
 ## Installation
 You will need to install Unity first, which you can do from the [official website](https://unity3d.com).
 
