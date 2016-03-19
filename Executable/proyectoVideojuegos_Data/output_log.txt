@@ -1,0 +1,101 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 7400M Series
+    Vendor:   ATI
+    VRAM:     1012 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.207 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\david\Desktop\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 8.774106 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 2.389460 ms (FindLiveObjects: 0.034521 ms CreateObjectMapping: 0.034521 ms MarkObjects: 0.431054 ms  DeleteObjects: 0.066710 ms)
+
+UnloadTime: 0.993664 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 829.
+Total: 2.003190 ms (FindLiveObjects: 0.040119 ms CreateObjectMapping: 0.016794 ms MarkObjects: 0.276173 ms  DeleteObjects: 0.633053 ms)
+
+Empieza boss
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1447)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1447)
+
+UnloadTime: 4.725272 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 466 unused Assets to reduce memory usage. Loaded Objects now: 206.
+Total: 12.025676 ms (FindLiveObjects: 0.061112 ms CreateObjectMapping: 0.038720 ms MarkObjects: 0.404930 ms  DeleteObjects: 9.601693 ms)
+
+The tree arbol must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree arbol must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree arbol must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree arbol must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+UnloadTime: 2.481362 ms
+The character you would like to control doesn't have animations. Moving her might look weird.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 1.739146 ms (FindLiveObjects: 0.034988 ms CreateObjectMapping: 0.015861 ms MarkObjects: 0.212261 ms  DeleteObjects: 0.782336 ms)
+
+Game Over
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.020647 ms
+The character you would like to control doesn't have animations. Moving her might look weird.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 1.575868 ms (FindLiveObjects: 0.044318 ms CreateObjectMapping: 0.023325 ms MarkObjects: 0.290635 ms  DeleteObjects: 0.200132 ms)
+
+UnloadTime: 3.834706 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 12.657331 ms (FindLiveObjects: 0.047117 ms CreateObjectMapping: 0.039186 ms MarkObjects: 0.542550 ms  DeleteObjects: 9.106728 ms)
+

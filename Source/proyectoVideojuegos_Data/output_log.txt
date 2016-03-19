@@ -1,0 +1,43 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1077]
+    Renderer: AMD Radeon HD 6470M  
+    Vendor:   ATI
+    VRAM:     1012 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\ProyectoVideojuegos\proyectoVideojuegos_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.577556 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 1.432608 ms (FindLiveObjects: 0.011195 ms CreateObjectMapping: 0.010262 ms MarkObjects: 0.151144 ms  DeleteObjects: 0.041051 ms)
+
+UnloadTime: 1.069674 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 835.
+Total: 2.017594 ms (FindLiveObjects: 0.039652 ms CreateObjectMapping: 0.017260 ms MarkObjects: 0.279430 ms  DeleteObjects: 0.419846 ms)
+
+UnloadTime: 1.789944 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 467 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 7.858588 ms (FindLiveObjects: 0.025657 ms CreateObjectMapping: 0.016327 ms MarkObjects: 0.583119 ms  DeleteObjects: 4.286163 ms)
+

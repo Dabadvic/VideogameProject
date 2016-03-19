@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 24fb7170a7bedc542983e0f5fc9f3001
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back_Wheel
+    100002: Hull
+    100004: Left_Eleva
+    100006: Left_Landi
+    100008: Left_Rocke
+    100010: Left_Wing
+    100012: Left_Wing_
+    100014: //RootNode
+    100016: Proppeler
+    100018: Right
+    100020: Right_Elev
+    100022: Right_Land
+    100024: Right_Rock
+    100026: Right_Wing
+    100028: Rudder
+    400000: Back_Wheel
+    400002: Hull
+    400004: Left_Eleva
+    400006: Left_Landi
+    400008: Left_Rocke
+    400010: Left_Wing
+    400012: Left_Wing_
+    400014: //RootNode
+    400016: Proppeler
+    400018: Right
+    400020: Right_Elev
+    400022: Right_Land
+    400024: Right_Rock
+    400026: Right_Wing
+    400028: Rudder
+    2300000: Back_Wheel
+    2300002: Hull
+    2300004: Left_Eleva
+    2300006: Left_Landi
+    2300008: Left_Rocke
+    2300010: Left_Wing
+    2300012: Left_Wing_
+    2300014: //RootNode
+    2300016: Proppeler
+    2300018: Right
+    2300020: Right_Elev
+    2300022: Right_Land
+    2300024: Right_Rock
+    2300026: Right_Wing
+    2300028: Rudder
+    3300000: Back_Wheel
+    3300002: Hull
+    3300004: Left_Eleva
+    3300006: Left_Landi
+    3300008: Left_Rocke
+    3300010: Left_Wing
+    3300012: Left_Wing_
+    3300014: //RootNode
+    3300016: Proppeler
+    3300018: Right
+    3300020: Right_Elev
+    3300022: Right_Land
+    3300024: Right_Rock
+    3300026: Right_Wing
+    3300028: Rudder
+    4300000: P-51_Musta
+    4300002: Proppeler
+    4300004: Right_Rock
+    4300006: Right
+    4300008: Right_Land
+    4300010: Hull
+    4300012: Right_Wing
+    4300014: Left_Wing
+    4300016: Left_Landi
+    4300018: Left_Rocke
+    4300020: Left_Wing_
+    4300022: Right_Elev
+    4300024: Back_Wheel
+    4300026: Left_Eleva
+    4300028: Rudder
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

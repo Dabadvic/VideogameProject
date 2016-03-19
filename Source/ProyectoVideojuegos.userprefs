@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UserInterface2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ShipController.cs" Line="56" Column="9" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="73" Column="35" />
+      <File FileName="Assets\Scripts\RestartOnFall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotationY.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovingCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ammo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangeOptions.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\LimiteSuperior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LimiteInferior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SiguienteNivel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinJuego.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Prenivel1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Prenivel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserInterface2.cs" Line="14" Column="22" />
+      <File FileName="Assets\Scripts\BossController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
